@@ -1,0 +1,19 @@
+{
+  "name": "1040_automovil",
+  "version": "1.0.0",
+  "description": "Para definir un array lo hacemos indicando el tipo de los elementos del array\r y podemos añadir el operador y a la vez definirlo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "@types/mongoose": "^5.7.36",
+    "mongoose": "^5.10.11"
+  }
+}
